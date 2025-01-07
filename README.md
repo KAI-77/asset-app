@@ -17,4 +17,9 @@ Database: MySQL (SQLyog)
 Authentication: Laravel Breeze
 Other Tools: Postman
 
+Screenshots
+
+![AMS- APP](https://github.com/user-attachments/assets/2515d162-f51b-4388-b299-88b37b0bd9c8)
+
+
 
